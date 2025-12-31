@@ -1,0 +1,21 @@
+//  Getter and setter methods
+
+#include<iostream>
+using namespace std;
+class Student{
+private:
+    string name;
+public:
+    void setName(string n){ 
+        name=n; 
+    }
+    string getName(){
+        return name;
+    }
+};
+int main(){
+    Student s;
+    s.setName("Sunny");
+    cout<<"Student Name: "<<s.getName();
+    return 0;
+}
