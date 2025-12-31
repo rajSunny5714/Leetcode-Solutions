@@ -8,6 +8,7 @@ This repository contains my **Data Structures and Algorithms (DSA) practice** so
 
 I have solved problems on the following topics:
 
+- **Basic Concepts**  
 - **Arrays & Strings**  
 - **Mathematics & Number Theory**  
 - **Linked Lists**  
